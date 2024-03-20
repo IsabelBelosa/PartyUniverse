@@ -1,0 +1,6 @@
+1. Github desktop -> Rama de otra persona
+2. Hacer pull en esa rama
+3. Después del pull, se cambia base por mi rama
+4. Pulsar boton merge
+5. En Github desktop -> Mi rama
+6. Fetch -> Pull
