@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class AnimationScript : MonoBehaviour {
@@ -16,7 +16,7 @@ public class AnimationScript : MonoBehaviour {
     private bool goingUp = true;
     public float floatRate;
     private float floatTimer;
-   
+    
     public Vector3 startScale;
     public Vector3 endScale;
 
@@ -33,7 +33,7 @@ public class AnimationScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-       
+    
         
         if(isAnimated)
         {

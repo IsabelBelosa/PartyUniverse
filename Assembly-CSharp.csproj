@@ -64,11 +64,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Zololgo\OrbitZoomPanCamera\Scripts\OrbitZoomPanCamera.cs" />
+    <Compile Include="Assets\Scripts\AnimationScriptSkull.cs" />
     <Compile Include="Assets\AurynSky\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AurynSky\Gems Ultimate Pack\READ ME.txt" />
     <None Include="Assets\Stylized Cute Alien Character\ReadMe.txt" />
+    <None Include="Assets\Skeleton_Ghost\Documentation\Documentation.txt" />
     <None Include="Assets\Snowconesolid Assets\Awesome Space Guy Toon Pack\Snowconesolid Assets ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
