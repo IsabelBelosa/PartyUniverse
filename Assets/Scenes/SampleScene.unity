@@ -311,6 +311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpaceGuy_Green_With_Helmet
       objectReference: {fileID: 0}
+    - target: {fileID: 152040, guid: 1bf893cbf1aabfa49a955db7d30b11ea, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 440554, guid: 1bf893cbf1aabfa49a955db7d30b11ea, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.618169
@@ -1028,6 +1032,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 62913254}
     m_Modifications:
+    - target: {fileID: 998563157199662574, guid: ff90108555a55564780c72f88e461a01, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3798994977671446987, guid: ff90108555a55564780c72f88e461a01, type: 3}
       propertyPath: m_Name
       value: Alien azul (1)
@@ -1083,6 +1091,14 @@ PrefabInstance:
     - target: {fileID: 4608147109142190961, guid: ff90108555a55564780c72f88e461a01, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5802555468632533449, guid: ff90108555a55564780c72f88e461a01, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7241877794469950157, guid: ff90108555a55564780c72f88e461a01, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1467,15 +1483,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7660415575433491961, guid: ab33231c3da25f447a7334fc5327ebc7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.6551623
+      value: -1.99
       objectReference: {fileID: 0}
     - target: {fileID: 7660415575433491961, guid: ab33231c3da25f447a7334fc5327ebc7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.8751726
+      value: 0.11
       objectReference: {fileID: 0}
     - target: {fileID: 7660415575433491961, guid: ab33231c3da25f447a7334fc5327ebc7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.7579827
+      value: 15.79
       objectReference: {fileID: 0}
     - target: {fileID: 7660415575433491961, guid: ab33231c3da25f447a7334fc5327ebc7, type: 3}
       propertyPath: m_LocalRotation.w
