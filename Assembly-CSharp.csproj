@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\AlienVuela.cs" />
     <Compile Include="Assets\Zololgo\OrbitZoomPanCamera\Scripts\OrbitZoomPanCamera.cs" />
     <Compile Include="Assets\Scripts\AnimationScriptSkull.cs" />
+    <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\AurynSky\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
   </ItemGroup>
   <ItemGroup>

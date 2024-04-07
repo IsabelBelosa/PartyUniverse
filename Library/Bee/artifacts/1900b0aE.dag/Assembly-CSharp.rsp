@@ -374,6 +374,7 @@
 "Assets/AurynSky/Gems Ultimate Pack/Scripts/AnimationScript.cs"
 "Assets/Scripts/AlienVuela.cs"
 "Assets/Scripts/AnimationScriptSkull.cs"
+"Assets/Scripts/Menu.cs"
 "Assets/Zololgo/OrbitZoomPanCamera/Scripts/OrbitZoomPanCamera.cs"
 -langversion:9.0
 
