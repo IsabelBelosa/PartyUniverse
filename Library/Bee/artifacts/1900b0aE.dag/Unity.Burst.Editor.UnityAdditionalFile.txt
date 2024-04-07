@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 C:\Users\patat\Desktop\PartyUniverse
+=======
+C:\Users\patat\Documents\GitHub\PartyUniverse
+>>>>>>> Stashed changes

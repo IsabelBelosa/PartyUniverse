@@ -597,7 +597,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 143b796c57273d147a086b4641cc7ec9, type: 3}
+<<<<<<< Updated upstream
     m_FontSize: 25
+=======
+    m_FontSize: 20
+>>>>>>> Stashed changes
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -658,7 +662,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
   m_Texture: {fileID: 2800000, guid: 5171851b2024dde45b37cf0d2c254ac3, type: 3}
+=======
+  m_Texture: {fileID: 2800000, guid: 4de5e1d00615cd544ac16c560ef3fe0e, type: 3}
+>>>>>>> Stashed changes
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -914,7 +922,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
+<<<<<<< Updated upstream
   m_AnchoredPosition: {x: 0, y: -118}
+=======
+  m_AnchoredPosition: {x: 0, y: -116}
+>>>>>>> Stashed changes
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &832413596
@@ -939,7 +951,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 143b796c57273d147a086b4641cc7ec9, type: 3}
+<<<<<<< Updated upstream
     m_FontSize: 25
+=======
+    m_FontSize: 20
+>>>>>>> Stashed changes
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -1110,7 +1126,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 143b796c57273d147a086b4641cc7ec9, type: 3}
+<<<<<<< Updated upstream
     m_FontSize: 25
+=======
+    m_FontSize: 20
+>>>>>>> Stashed changes
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
