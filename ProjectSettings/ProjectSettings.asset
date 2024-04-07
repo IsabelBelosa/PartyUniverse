@@ -844,11 +844,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4bb1b841-ee5d-49cd-be3e-774eacbadec2
+  cloudProjectId: 904cdd86-48fd-4837-af37-dbd1312f7d0e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Party universe
-  organizationId: lugale
+  projectName: PartyUniverse
+  organizationId: jesmalean
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
