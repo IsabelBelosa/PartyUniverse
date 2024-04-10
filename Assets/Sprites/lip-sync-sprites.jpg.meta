@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: 1c4163e732090bb46a6303a33343a404
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lip-sync-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 324
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -19}
+        - {x: -9, y: -19}
+        - {x: -29, y: -13}
+        - {x: -43, y: -5}
+        - {x: -46, y: 0}
+        - {x: -43, y: 5}
+        - {x: -28, y: 13}
+        - {x: -9, y: 18}
+        - {x: 12, y: 18}
+        - {x: 28, y: 14}
+        - {x: 44, y: 5}
+        - {x: 46, y: -1}
+        - {x: 43, y: -5}
+        - {x: 30, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5660671b34e67ca408f0ce501328bea7
+      internalID: -742130045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 316
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -14.5}
+        - {x: -4, y: -14.5}
+        - {x: -11, y: -10.5}
+        - {x: -15, y: -1.5}
+        - {x: -15, y: 3.5}
+        - {x: -13, y: 10.5}
+        - {x: -10, y: 18.5}
+        - {x: -4, y: 25.5}
+        - {x: 1, y: 27.5}
+        - {x: 5, y: 25.5}
+        - {x: 10, y: 18.5}
+        - {x: 13, y: 10.5}
+        - {x: 15, y: 3.5}
+        - {x: 15, y: -1.5}
+        - {x: 11, y: -10.5}
+      - - {x: 4, y: -26.5}
+        - {x: 0, y: -27.5}
+        - {x: -5, y: -26.5}
+        - {x: -9, y: -24.5}
+        - {x: -12, y: -21.5}
+        - {x: -11, y: -18.5}
+        - {x: -9, y: -18.5}
+        - {x: -6, y: -20.5}
+        - {x: -1, y: -21.5}
+        - {x: 3, y: -21.5}
+        - {x: 6, y: -19.5}
+        - {x: 9, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 12, y: -21.5}
+        - {x: 10, y: -24.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66aea386b1bfd94e960346ed4c8f78e
+      internalID: -1925102062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 324
+        width: 95
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -15}
+        - {x: 14.5, y: -17}
+        - {x: 1.5, y: -19}
+        - {x: -16.5, y: -17}
+        - {x: -30.5, y: -12}
+        - {x: -42.5, y: -4}
+        - {x: -45.5, y: 2}
+        - {x: -44.5, y: 7}
+        - {x: -29.5, y: 14}
+        - {x: -14.5, y: 18}
+        - {x: 11.5, y: 18}
+        - {x: 27.5, y: 15}
+        - {x: 46.5, y: 9}
+        - {x: 44.5, y: 0}
+        - {x: 38.5, y: -6}
+        - {x: 34.5, y: -9}
+        - {x: 30.5, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6754e0f0800a3441bb4f45b5e55a3fe
+      internalID: -1934178006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 239
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -12}
+        - {x: 0.5, y: -13}
+        - {x: -2.5, y: -12}
+        - {x: -5.5, y: -10}
+        - {x: -7.5, y: -6}
+        - {x: -8.5, y: -2}
+        - {x: -8.5, y: 3}
+        - {x: -7.5, y: 7}
+        - {x: -4.5, y: 10}
+        - {x: -1.5, y: 12}
+        - {x: 2.5, y: 12}
+        - {x: 6.5, y: 10}
+        - {x: 8.5, y: 7}
+        - {x: 9.5, y: 5}
+        - {x: 9.5, y: 1}
+        - {x: 9.5, y: -3}
+        - {x: 8.5, y: -6}
+        - {x: 7.5, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e0667281edb29439a594697d5b2898
+      internalID: -1884294258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 244
+        width: 104
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.199799, y: -8.876434}
+        - {x: -10.634369, y: -8.785126}
+        - {x: -25.2435, y: -6.5}
+        - {x: -43.996735, y: -0.99160767}
+        - {x: -25.9151, y: 5.241699}
+        - {x: -8.829041, y: 8.024261}
+        - {x: 12.140228, y: 8.10498}
+        - {x: 24.380066, y: 6.1383667}
+        - {x: 46, y: -0.5}
+        - {x: 25.070068, y: -6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdce4362af9dd24c82bc80ffe38f572
+      internalID: -50127224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 144
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.839142, y: 1.3509979}
+        - {x: 26.790466, y: 3.1752625}
+        - {x: 21.074127, y: 4.16098}
+        - {x: 14.761475, y: 4.6137695}
+        - {x: 11.233246, y: 5.2168274}
+        - {x: -4.2592773, y: 5.1149597}
+        - {x: -9.033142, y: 4.5427246}
+        - {x: -16.168457, y: 4.2483063}
+        - {x: -20.146393, y: 3.2962189}
+        - {x: -24.012207, y: 2.4467468}
+        - {x: -27.768555, y: 2.3061676}
+        - {x: -31.899384, y: 1.2947235}
+        - {x: -38.514145, y: 1.3759766}
+        - {x: -40.086624, y: 3.0187836}
+        - {x: -40.004166, y: 4.7960052}
+        - {x: -38.66838, y: 6.1414337}
+        - {x: -32.650085, y: 5.995117}
+        - {x: -29.012024, y: 6.6501465}
+        - {x: -24.578156, y: 7.4158173}
+        - {x: -19.685791, y: 7.950226}
+        - {x: -15.370972, y: 8.673538}
+        - {x: -10.483917, y: 8.980408}
+        - {x: -6.69339, y: 9.271423}
+        - {x: -3.4324036, y: 9.709656}
+        - {x: 11.155731, y: 9.62413}
+        - {x: 15.0104065, y: 9.166519}
+        - {x: 21.361877, y: 8.432343}
+        - {x: 27.039886, y: 7.215164}
+        - {x: 31.239807, y: 5.957184}
+        - {x: 35.345, y: 5.40889}
+        - {x: 38.68634, y: 3.2872925}
+        - {x: 38.276154, y: 0.62210083}
+        - {x: 35.84619, y: -0.011993408}
+      - - {x: 5.1992493, y: -12.731613}
+        - {x: 1.9076233, y: -13.234283}
+        - {x: -2.4946594, y: -13.001572}
+        - {x: -6.429413, y: -11.683304}
+        - {x: -9.342957, y: -10.033173}
+        - {x: -10.412567, y: -8.381287}
+        - {x: -10.173981, y: -6.588684}
+        - {x: -8.239777, y: -5.70874}
+        - {x: -6.509674, y: -6.1305695}
+        - {x: -5.6515503, y: -7.4703674}
+        - {x: -4.4275513, y: -8.850571}
+        - {x: -2.379181, y: -9.591537}
+        - {x: -0.2381897, y: -9.687225}
+        - {x: 2.751831, y: -9.428253}
+        - {x: 5.897522, y: -9.271378}
+        - {x: 7.786072, y: -8.295105}
+        - {x: 8.59964, y: -6.4406586}
+        - {x: 10.397919, y: -6.146469}
+        - {x: 11.970276, y: -6.591263}
+        - {x: 12.040131, y: -9.204834}
+        - {x: 10.473389, y: -10.218033}
+        - {x: 8.131256, y: -11.136337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfcc1eb5cfc15c4d866f1b7d190441f
+      internalID: 1005911940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 141
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.888733, y: -18.625}
+        - {x: 8.264648, y: -20.012192}
+        - {x: 0.001953125, y: -20.505981}
+        - {x: -8.642181, y: -19.723404}
+        - {x: -13.2717285, y: -18.81871}
+        - {x: -18.180328, y: -16.945145}
+        - {x: -24.450928, y: -13.388138}
+        - {x: -29.137238, y: -10.604782}
+        - {x: -34.319305, y: -6.067795}
+        - {x: -36.43329, y: -3.0198822}
+        - {x: -36.694977, y: 1.3063354}
+        - {x: -33.185944, y: 5.493805}
+        - {x: -26.984009, y: 9.529419}
+        - {x: -22.561401, y: 12.097778}
+        - {x: -15.583282, y: 14.939209}
+        - {x: -7.89505, y: 17.07727}
+        - {x: 1.8291931, y: 17.527771}
+        - {x: 11.331238, y: 17.149963}
+        - {x: 18.62613, y: 15.693222}
+        - {x: 24.296204, y: 13.541306}
+        - {x: 28.729462, y: 10.996719}
+        - {x: 35.186157, y: 5.7223206}
+        - {x: 38.443268, y: 2.9157562}
+        - {x: 39.046722, y: -0.031036377}
+        - {x: 38.78003, y: -3.8024902}
+        - {x: 36.177795, y: -6.9128113}
+        - {x: 30.899414, y: -11.069}
+        - {x: 26.161438, y: -14.135025}
+        - {x: 21.59311, y: -16.344894}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92bcef97040967428429583e2f48726
+      internalID: -418772324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 150
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.14032, y: -7.152069}
+        - {x: 16.751404, y: -5.7131042}
+        - {x: 10.692993, y: -7.2844086}
+        - {x: 7.13208, y: -8.415253}
+        - {x: -9.393188, y: -8.074631}
+        - {x: -13.708649, y: -7.265274}
+        - {x: -15.989319, y: -6.1900635}
+        - {x: -18.680542, y: -6.5089417}
+        - {x: -24.54245, y: -7.861511}
+        - {x: -28.747742, y: -7.1864777}
+        - {x: -33.348846, y: -6.605438}
+        - {x: -35.741913, y: -4.939041}
+        - {x: -36.010437, y: -2.5093842}
+        - {x: -33.267944, y: -1.3264923}
+        - {x: -30.106018, y: -0.45448303}
+        - {x: -26.843689, y: 0.9510193}
+        - {x: -23.884125, y: 1.7503357}
+        - {x: -16.174805, y: 3.2427063}
+        - {x: -8.343994, y: 4.317749}
+        - {x: -0.7814331, y: 4.958252}
+        - {x: 8.577698, y: 4.1574097}
+        - {x: 16.14972, y: 3.1986694}
+        - {x: 25.228394, y: 1.4869843}
+        - {x: 30.15509, y: -0.52272034}
+        - {x: 35.391907, y: -1.1337128}
+        - {x: 35.557312, y: -4.2641754}
+        - {x: 33.352417, y: -6.3195496}
+        - {x: 29.31488, y: -6.185425}
+        - {x: 26.08429, y: -7.071472}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e27dc3f49d4364694bff7ef8063ee2
+      internalID: -1970525681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 53
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.536163, y: -10.286018}
+        - {x: 22.638885, y: -11.75074}
+        - {x: 18.819946, y: -12.387722}
+        - {x: 16.19934, y: -12.323944}
+        - {x: 12.326141, y: -11.229652}
+        - {x: 7.5718384, y: -10.284439}
+        - {x: -4.412567, y: -10.396786}
+        - {x: -9.1362915, y: -11.306747}
+        - {x: -13.500092, y: -12.295963}
+        - {x: -18.819458, y: -12.312939}
+        - {x: -21.585266, y: -11.278259}
+        - {x: -23.457764, y: -10.373299}
+        - {x: -25.994263, y: -9.478973}
+        - {x: -28.981812, y: -7.6894875}
+        - {x: -31.01242, y: -5.503708}
+        - {x: -33.240295, y: -3.38768}
+        - {x: -34.431152, y: -1.3140793}
+        - {x: -32.58644, y: 1.6501389}
+        - {x: -27.76297, y: 4.8933334}
+        - {x: -22.875519, y: 6.2216873}
+        - {x: -15.675201, y: 7.9041367}
+        - {x: -9.369904, y: 8.780518}
+        - {x: 9.385651, y: 9.0477295}
+        - {x: 15.367065, y: 8.256393}
+        - {x: 21.632416, y: 7.537567}
+        - {x: 27.74408, y: 5.523201}
+        - {x: 33.072968, y: 2.3127213}
+        - {x: 36.35196, y: -0.85450745}
+        - {x: 33.61685, y: -5.5596924}
+        - {x: 28.750946, y: -9.522751}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949a3fe11f25e474aa77189e284323e7
+      internalID: -1909952188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 52
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.364166, y: -10.096657}
+        - {x: 5.054077, y: -11.152813}
+        - {x: -2.080841, y: -11.196453}
+        - {x: -11.075562, y: -10.71867}
+        - {x: -16.448608, y: -10.214558}
+        - {x: -18.951904, y: -9.506851}
+        - {x: -23.008911, y: -7.7473793}
+        - {x: -27.04184, y: -5.524666}
+        - {x: -29.766846, y: -3.6402168}
+        - {x: -32.141144, y: -2.3013077}
+        - {x: -33.112488, y: -0.46700287}
+        - {x: -33.37668, y: 2.09095}
+        - {x: -32.381775, y: 3.5673828}
+        - {x: -29.319275, y: 5.00605}
+        - {x: -26.105865, y: 5.181511}
+        - {x: -20.76178, y: 6.6861496}
+        - {x: -14.284454, y: 8.02227}
+        - {x: -2.4356384, y: 8.531166}
+        - {x: 14.546509, y: 8.435745}
+        - {x: 29.457733, y: 7.1195374}
+        - {x: 32.642853, y: 5.650177}
+        - {x: 35.711426, y: 4.582878}
+        - {x: 37.61612, y: 1.8114014}
+        - {x: 35.09488, y: -1.0396881}
+        - {x: 30.204071, y: -4.4904747}
+        - {x: 26.016937, y: -6.709511}
+        - {x: 21.241302, y: -8.383167}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df3cf472fa33d43be506eb4d29980e
+      internalID: 1138537825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lip-sync-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 50
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.536255, y: -6.556122}
+        - {x: 19.135315, y: -7.750244}
+        - {x: 17.708496, y: -8.436253}
+        - {x: 16.12091, y: -8.93832}
+        - {x: 13.808228, y: -9.69471}
+        - {x: 10.109436, y: -10.259136}
+        - {x: 8.341492, y: -10.8310585}
+        - {x: 4.9518433, y: -11.04908}
+        - {x: -0.3671875, y: -11.449806}
+        - {x: -6.5481567, y: -11.526169}
+        - {x: -9.846252, y: -11.053341}
+        - {x: -13.164612, y: -10.074345}
+        - {x: -15.225281, y: -9.266426}
+        - {x: -19.130066, y: -7.5259094}
+        - {x: -22.381897, y: -5.87801}
+        - {x: -24.54596, y: -4.7192726}
+        - {x: -26.598969, y: -3.0910149}
+        - {x: -28.61267, y: -2.416729}
+        - {x: -31.823975, y: -1.250412}
+        - {x: -34.00699, y: 0.4842987}
+        - {x: -34.59839, y: 1.9629822}
+        - {x: -33.850098, y: 3.4944687}
+        - {x: -30.810608, y: 3.6234436}
+        - {x: -30.152039, y: 4.3976517}
+        - {x: -26.190308, y: 5.5965652}
+        - {x: -22.515198, y: 7.3267593}
+        - {x: -18.413483, y: 8.373116}
+        - {x: -13.489563, y: 9.750816}
+        - {x: -5.218445, y: 10.230591}
+        - {x: -2.1710815, y: 10.539749}
+        - {x: 3.118225, y: 10.655418}
+        - {x: 8.105347, y: 10.120468}
+        - {x: 14.068115, y: 9.662621}
+        - {x: 18.888855, y: 8.689018}
+        - {x: 22.681396, y: 8.116158}
+        - {x: 26.309326, y: 7.1317215}
+        - {x: 27.902466, y: 6.670952}
+        - {x: 28.658203, y: 5.83255}
+        - {x: 30.580383, y: 5.7266006}
+        - {x: 34.801575, y: 5.3104553}
+        - {x: 36.96234, y: 4.4402313}
+        - {x: 37.450806, y: 2.948166}
+        - {x: 36.985474, y: 1.1384964}
+        - {x: 33.94391, y: -0.4416504}
+        - {x: 30.42389, y: -1.990799}
+        - {x: 26.79773, y: -3.6713066}
+        - {x: 23.769897, y: -5.4172173}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db192bbabf5ad3479d791adcaf9f92d
+      internalID: -1047357557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2393b5645de24e349933471aa857d213
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lip-sync-sprites_0: -742130045
+      lip-sync-sprites_1: -1925102062
+      lip-sync-sprites_10: -1047357557
+      lip-sync-sprites_2: -1934178006
+      lip-sync-sprites_3: -1884294258
+      lip-sync-sprites_4: -50127224
+      lip-sync-sprites_5: 1005911940
+      lip-sync-sprites_6: -418772324
+      lip-sync-sprites_7: -1970525681
+      lip-sync-sprites_8: -1909952188
+      lip-sync-sprites_9: 1138537825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
